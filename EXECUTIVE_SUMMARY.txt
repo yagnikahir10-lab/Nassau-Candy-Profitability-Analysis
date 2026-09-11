@@ -1,0 +1,23 @@
+NASSAU CANDY — EXECUTIVE SUMMARY
+
+10,194 order-line records; order period 2024-01-02 to 2025-12-31.
+Revenue: $141,783.63
+Cost: $48,340.83
+Gross Profit: $93,442.80
+Gross Margin: 65.91%
+
+Key findings:
+• Chocolate: 92.88% of revenue, 95.06% of profit, 67.45% margin.
+• Other: 6.82% of revenue, 4.64% of profit, 44.84% margin.
+• Sugar: 0.30% of revenue, 0.30% of profit, 66.61% margin.
+• Five products generate 95.06% of total gross profit.
+• Kazookles has the lowest margin at 7.69%.
+• Monthly gross-margin volatility is approximately 0.53 percentage points.
+• Ship dates appear inconsistent with order dates and require validation.
+
+Recommended actions:
+1. Protect core Chocolate products and monitor concentration.
+2. Review Kazookles and other low-margin products for repricing/cost reduction.
+3. Investigate sourcing and pricing in the Other division.
+4. Use profit contribution, not sales alone, for portfolio decisions.
+5. Validate ship-date data before logistics analysis.
